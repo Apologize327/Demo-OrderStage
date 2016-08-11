@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>stageName</key>
+		<string>01</string>
+		<key>stageContent</key>
+		<string>订单已提交</string>
+		<key>stageTime</key>
+		<string>5月13日 14:21</string>
+		<key>stageDes</key>
+		<string>请耐心等待商家确认</string>
+	</dict>
+	<dict>
+		<key>stageName</key>
+		<string>02</string>
+		<key>stageContent</key>
+		<string>支付成功</string>
+		<key>stageTime</key>
+		<string>5月13日 14:24</string>
+		<key>stageDes</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>stageName</key>
+		<string>03</string>
+		<key>stageContent</key>
+		<string>商家已接单</string>
+		<key>stageTime</key>
+		<string>5月13日 14:26</string>
+		<key>stageDes</key>
+		<string>商家准备中</string>
+	</dict>
+	<dict>
+		<key>stageName</key>
+		<string>04</string>
+		<key>stageContent</key>
+		<string>商家已发货</string>
+		<key>stageTime</key>
+		<string>5月13日 14:40</string>
+		<key>stageDes</key>
+		<string>请等待送货</string>
+	</dict>
+	<dict>
+		<key>stageName</key>
+		<string>05</string>
+		<key>stageContent</key>
+		<string>订单已完成</string>
+		<key>stageTime</key>
+		<string>5月13日 15:20</string>
+		<key>stageDes</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
